@@ -11,6 +11,7 @@ class LoadingScreen extends StatefulWidget {
 }
 
 class _LoadingScreenState extends State<LoadingScreen> {
+  LocationPermission permission;
   void getLocation() async {
     Position position = await Geolocator.getCurrentPosition(
         desiredAccuracy: LocationAccuracy.high);
@@ -23,7 +24,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
       body: Center(
         child: RaisedButton(
           onPressed: () {
-            getLocation();
+            //Get the current location
           },
           child: Text('Get Location'),
         ),
