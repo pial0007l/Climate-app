@@ -24,9 +24,9 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pial0\.g
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pial0\.gradle\caches\transforms-2\files-2.1\71b619f01309f419ed6b9a79fb62df67\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pial0\.gradle\caches\transforms-2\files-2.1\b1e5b3e7ff90977513d02b308ca82682\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pial0\.gradle\caches\transforms-2\files-2.1\a86cec402db0cf6f732d23e6f9d53cb5\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\debug\AndroidManifest.xml:1:1-9:12
+INJECTED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\debug\AndroidManifest.xml:1:1-9:12
+INJECTED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\debug\AndroidManifest.xml:1:1-9:12
 	package
 		ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:2:5-34
 		INJECTED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml
@@ -55,6 +55,8 @@ ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\An
 		ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:12:22-82
 application
 ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:13:5-36:19
+MERGED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:13:5-36:19
+MERGED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:13:5-36:19
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\pial0\.gradle\caches\transforms-2\files-2.1\8cf828cdde8a44406351ac4fb6b4eab1\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\pial0\.gradle\caches\transforms-2\files-2.1\8cf828cdde8a44406351ac4fb6b4eab1\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\pial0\.gradle\caches\transforms-2\files-2.1\503246db64dcbb120c121745b36c75fd\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
@@ -73,9 +75,14 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pi
 		ADDED from [androidx.core:core:1.1.0] C:\Users\pial0\.gradle\caches\transforms-2\files-2.1\e91594602c73eba9f0c6fb1745d43dba\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:15:9-30
+		ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:15:9-30
 	android:icon
 		ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:16:9-43
+		ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:16:9-43
+	android:usesCleartextTraffic
+		ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\debug\AndroidManifest.xml:7:18-53
 	android:name
+		ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:14:9-57
 		ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:14:9-57
 activity#co.appbrewery.clima.MainActivity
 ADDED from D:\Learnings\Climate-app\Clima-Flutter-master\android\app\src\main\AndroidManifest.xml:17:9-35:20
